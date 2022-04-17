@@ -1,0 +1,45 @@
+.fontcolor {
+    color: blue;
+}
+.notbold {
+    font-weight: normal;
+}
+
+.backcolor {
+    background-color: rgb(243, 243, 252);
+}
+
+.linkunderline {
+    text-decoration: underline;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    position: fixed;
+}
+
+.common {
+    position: absolute;
+}
+
+.padding {
+    padding-right: 50px;
+}
+
+.header{
+    position: absolute;
+    background-color: rgb(0, 0, 0);  
+    left: 5px;
+    right: 5px;
+    top: 10px;
+}
+
+.headertextcolor {
+    color: white;
+}
+
+
